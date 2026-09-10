@@ -5,7 +5,7 @@ Mini escape room por consola desarrollado en Python.
 ## Autores
 - Juan Jacobo Rodriguez
 - Samuel Valencia
-- Juan Esteban Saldarriaga
+- Juan Esteban Saldarriaga Ramirez
 - Samuel Dominguez
 
 ## Cómo ejecutar
